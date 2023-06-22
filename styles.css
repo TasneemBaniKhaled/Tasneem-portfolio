@@ -438,6 +438,10 @@ cursor: pointer;
   .services__card .section__subtitle{
     margin-bottom: 1rem;
   }
+.IELTS{
+    text-decoration: underline;
+}
+
 /*=============== PROJECTS ===============*/
 
   .projects__container{
